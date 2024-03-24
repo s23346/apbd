@@ -1,0 +1,11 @@
+# Visual Studio / Visual Studio Code
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw? 
+*.user
+*.psess
+*.vsp
+*.vspx
